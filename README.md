@@ -1,4 +1,4 @@
-![Imagem](ContaBanco/s1.png)
+![Imagem](CONTABANCO/s1.PNG)
 
 # Sintaxe - Desafio Santander 2024
 
